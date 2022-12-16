@@ -13,7 +13,7 @@ import java.util.List;
  * This class represents the main application that runs the flyweight and regular
  * text editor examples and compares their memory usage.
  *
- * @author Anuj Kawane <akawane0813@sdsu.edu>
+ * @author Anuj Kawane
  */
 public class Application {
     public static void main(String[] args) {
